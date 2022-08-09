@@ -32,8 +32,7 @@ npm i easysoap
         host               : 'www.example.com',
         path               : '/soap/path',
         wsdl               : '/wsdl/path',
-        headers            : Array or Object,
-        rejectUnauthorized : true/false
+        headers            : Array or Object
     }
 
 *soapOptions*
